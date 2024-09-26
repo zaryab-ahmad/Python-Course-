@@ -1,0 +1,4 @@
+Hello, World!
+This is a file handling example.
+Appending a new line.Apeend mode
+Apeend mode
